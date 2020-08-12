@@ -28,7 +28,7 @@
 
 ![](https://upload-images.jianshu.io/upload_images/24099992-82bd49401cac16d7.jpg!thumbnail?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-**资料获取方式：加入合作Android架构学习交流Qqun：1005956838，管理处免费领取资料**
+**资料获取方式：加入合作Android架构学习交流Qqun：345659112，管理处免费领取资料**
 
 群内有许多来自一线的技术大牛，也有在小厂或外包公司奋斗的码农，我们致力打造一个平等，高质量的Android交流圈子，不一定能短期就让每个人的技术突飞猛进，但从长远来说，眼光，格局，长远发展的方向才是最重要的。
 
@@ -36,7 +36,7 @@
 
 有任何问题，欢迎一起学习交流。
 
-**入口：**[https://jq.qq.com/?_wv=1027&k=lvbmtBRG](https://jq.qq.com/?_wv=1027&k=lvbmtBRG)
+**入口：**[https://jq.qq.com/?_wv=1027&k=qlzqh5KM](https://jq.qq.com/?_wv=1027&k=qlzqh5KM)
 
 ## 1.【阿里P7级全套高级学习视频】七大专题：
 
@@ -102,7 +102,9 @@ UI这块知识是现今使用者最多的。当年火爆一时的Android入门�
 
 ## 资料获取：
 
-![Android移动互联网群聊二维码.png](https://upload-images.jianshu.io/upload_images/24099992-157c20babd3d8b87.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+资料获取:
+
+加群：345659112 或者是扫描二维码加我WX（X1524478394）免费获取！
 
 
 **Android架构师之路很漫长，一起共勉吧！**
